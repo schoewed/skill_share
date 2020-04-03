@@ -1,0 +1,742 @@
+Number,Achievement,District,Students,Rating
+'001902,83,Cayuga Isd,575,B
+'001903,81,Elkhart Isd,1233,B
+'001904,82,Frankston Isd,872,B
+'001906,89,Neches Isd,360,B
+'001907,78,Palestine Isd,3414,B
+'001908,78,Westwood Isd,1559,C
+'001909,89,Slocum Isd,423,B
+'002901,78,Andrews Isd,4062,C
+'003902,90,Hudson Isd,2889,A
+'003903,81,Lufkin Isd,7953,B
+'003904,84,Huntington Isd,1718,B
+'003905,80,Diboll Isd,1884,B
+'003906,73,Zavalla Isd,368,D
+'003907,85,Central Isd,1521,B
+'005901,92,Archer City Isd,473,A
+'005902,89,Holliday Isd,1006,B
+'005904,91,Windthorst Isd,428,A
+'006902,89,Claude Isd,372,A
+'007901,71,Charlotte Isd,492,C
+'007902,81,Jourdanton Isd,1619,B
+'007904,71,Lytle Isd,1692,C
+'007905,79,Pleasanton Isd,3572,C
+'007906,76,Poteet Isd,1734,C
+'008901,81,Bellville Isd,2253,B
+'008902,79,Sealy Isd,2809,C
+'008903,80,Brazos Isd,805,C
+'009901,75,Muleshoe Isd,1441,C
+'010902,82,Bandera Isd,2278,B
+'011901,75,Bastrop Isd,10863,C
+'011902,75,Elgin Isd,4307,C
+'011904,76,Smithville Isd,1781,C
+'011905,79,Mcdade Isd,324,B
+'012901,86,Seymour Isd,577,B
+'013901,72,Beeville Isd,3291,C
+'013903,74,Pettus Isd,429,C
+'013905,82,Skidmore-Tynan Isd,833,B
+'014901,84,Academy Isd,1554,B
+'014903,83,Belton Isd,11488,B
+'014905,82,Holland Isd,668,B
+'014906,76,Killeen Isd,44233,C
+'014907,81,Rogers Isd,893,B
+'014908,89,Salado Isd,1862,B
+'014909,70,Temple Isd,8591,C
+'014910,87,Troy Isd,1528,B
+'015901,90,Alamo Heights Isd,4786,B
+'015904,72,Harlandale Isd,14363,C
+'015905,60,Edgewood Isd,10412,D
+'015906,92,Randolph Field Isd,1449,A
+'015907,64,San Antonio Isd,50641,C
+'015908,63,South San Antonio Isd,9102,D
+'015909,76,Somerset Isd,4163,C
+'015910,84,North East Isd,65805,B
+'015911,69,East Central Isd,10201,C
+'015912,70,Southwest Isd,13843,C
+'015913,85,Lackland Isd,1051,A
+'015914,90,Ft Sam Houston Isd,1608,A
+'015915,82,Northside Isd,106086,B
+'015916,71,Judson Isd,23108,C
+'015917,69,Southside Isd,5651,C
+'016901,87,Johnson City Isd,657,B
+'016902,88,Blanco Isd,1028,B
+'018901,83,Clifton Isd,1005,B
+'018902,85,Meridian Isd,473,B
+'018904,76,Valley Mills Isd,642,C
+'019901,83,Dekalb Isd,830,B
+'019902,82,Hooks Isd,942,B
+'019903,83,Maud Isd,488,B
+'019905,83,New Boston Isd,1339,B
+'019906,89,Redwater Isd,1104,B
+'019907,83,Texarkana Isd,7149,B
+'019908,72,Liberty-Eylau Isd,2506,C
+'019909,85,Simms Isd,499,B
+'019911,93,Red Lick Isd,511,A
+'019912,93,Pleasant Grove Isd,2125,A
+'020908,92,Pearland Isd,21559,A
+'020910,54,Damon Isd,209,F
+'021901,90,College Station Isd,13508,B
+'021902,69,Bryan Isd,16157,C
+'022901,88,Alpine Isd,1080,B
+'024901,67,Brooks County Isd,1580,C
+'025901,83,Bangs Isd,959,B
+'025902,77,Brownwood Isd,3686,C
+'025905,84,May Isd,296,B
+'025909,90,Early Isd,1187,A
+'026901,82,Caldwell Isd,1800,B
+'026902,60,Somerville Isd,500,D
+'026903,70,Snook Isd,498,C
+'027903,80,Burnet Cisd,3193,C
+'027904,86,Marble Falls Isd,4225,B
+'028902,73,Lockhart Isd,5901,C
+'028903,66,Luling Isd,1427,D
+'030901,79,Cross Plains Isd,368,C
+'030902,87,Clyde Cisd,1433,B
+'030903,84,Baird Isd,305,B
+'030906,86,Eula Isd,414,B
+'031901,85,Brownsville Isd,45535,B
+'031903,80,Harlingen Cisd,18371,B
+'031905,78,La Feria Isd,3410,B
+'031906,88,Los Fresnos Cisd,10770,A
+'031909,83,Point Isabel Isd,2421,B
+'031911,75,Rio Hondo Isd,1947,C
+'031912,75,San Benito Cisd,10453,C
+'031913,79,Santa Maria Isd,685,B
+'031914,84,Santa Rosa Isd,1104,B
+'031916,95,South Texas Isd,4245,A
+'032902,82,Pittsburg Isd,2335,B
+'033902,93,Panhandle Isd,725,A
+'033904,89,White Deer Isd,366,A
+'034901,81,Atlanta Isd,1684,B
+'034903,83,Hughes Springs Isd,1271,B
+'034905,78,Linden-Kildare Cisd,696,C
+'034906,83,Mcleod Isd,378,B
+'034907,87,Queen City Isd,1037,B
+'034909,67,Bloomburg Isd,277,D
+'035901,72,Dimmitt Isd,1231,C
+'036902,93,Barbers Hill Isd,5379,A
+'037901,72,Alto Isd,670,C
+'037904,73,Jacksonville Isd,4987,B
+'037907,83,Rusk Isd,2108,B
+'037909,80,Wells Isd,286,C
+'038901,84,Childress Isd,1112,B
+'039902,88,Henrietta Isd,955,B
+'039903,79,Petrolia Cisd,515,C
+'040901,60,Morton Isd,389,D
+'041902,86,Robert Lee Isd,283,B
+'042901,74,Coleman Isd,882,D
+'042903,77,Santa Anna Isd,262,C
+'043901,94,Allen Isd,21083,A
+'043902,80,Anna Isd,3443,C
+'043903,91,Celina Isd,2572,A
+'043904,83,Farmersville Isd,1630,B
+'043905,94,Frisco Isd,58278,A
+'043907,89,Mckinney Isd,24791,A
+'043908,91,Melissa Isd,2784,A
+'043910,92,Plano Isd,53748,A
+'043911,83,Princeton Isd,4368,A
+'043912,93,Prosper Isd,12081,A
+'043914,90,Wylie Isd,15718,A
+'043917,81,Blue Ridge Isd,825,B
+'043918,78,Community Isd,2257,C
+'043919,96,Lovejoy Isd,4201,A
+'044902,85,Wellington Isd,588,B
+'045902,75,Columbus Isd,1528,C
+'045905,88,Weimar Isd,666,A
+'046901,86,New Braunfels Isd,8925,B
+'046902,90,Comal Isd,23025,B
+'047901,86,Comanche Isd,1326,B
+'047902,90,De Leon Isd,725,A
+'048903,76,Paint Rock Isd,256,C
+'049901,70,Gainesville Isd,3059,C
+'049902,92,Muenster Isd,494,A
+'049903,74,Valley View Isd,808,C
+'049905,85,Callisburg Isd,1154,B
+'049907,93,Lindsay Isd,495,A
+'050901,78,Evant Isd,243,C
+'050902,81,Gatesville Isd,2786,B
+'050910,79,Copperas Cove Isd,8153,B
+'052901,71,Crane Isd,1154,D
+'054901,76,Crosbyton Cisd,365,C
+'054902,79,Lorenzo Isd,259,B
+'054903,72,Ralls Isd,525,C
+'056901,81,Dalhart Isd,1762,C
+'057903,84,Carrollton-Farmers Branch Isd,25230,B
+'057904,74,Cedar Hill Isd,7860,C
+'057905,72,Dallas Isd,156726,B
+'057906,65,Desoto Isd,9650,D
+'057907,69,Duncanville Isd,12854,C
+'057909,79,Garland Isd,56471,B
+'057910,74,Grand Prairie Isd,29266,B
+'057911,96,Highland Park Isd,6971,A
+'057912,77,Irving Isd,33901,B
+'057913,76,Lancaster Isd,7365,C
+'057914,74,Mesquite Isd,40932,C
+'057916,85,Richardson Isd,39204,B
+'057919,93,Sunnyvale Isd,1807,A
+'057922,95,Coppell Isd,12577,A
+'058906,69,Lamesa Isd,1917,C
+'059901,74,Hereford Isd,4176,C
+'060902,87,Cooper Isd,821,B
+'060914,74,Fannindel Isd,174,B
+'061901,84,Denton Isd,29152,B
+'061902,89,Lewisville Isd,52368,B
+'061903,80,Pilot Point Isd,1399,C
+'061905,81,Krum Isd,2116,C
+'061906,86,Ponder Isd,1411,B
+'061907,87,Aubrey Isd,2489,B
+'061908,80,Sanger Isd,2718,C
+'061910,93,Argyle Isd,2692,A
+'061911,90,Northwest Isd,23061,A
+'061912,86,Lake Dallas Isd,3951,B
+'061914,78,Little Elm Isd,7514,C
+'062901,75,Cuero Isd,2042,C
+'062903,76,Yoakum Isd,1608,C
+'062904,76,Yorktown Isd,533,C
+'064903,72,Carrizo Springs Cisd,2203,B
+'065901,81,Clarendon Isd,470,B
+'066901,69,Benavides Isd,339,D
+'066902,77,San Diego Isd,1459,B
+'066903,66,Freer Isd,807,C
+'067902,83,Cisco Isd,855,B
+'067903,78,Eastland Isd,1182,C
+'067904,85,Gorman Isd,305,B
+'067907,68,Ranger Isd,339,D
+'067908,89,Rising Star Isd,154,A
+'068901,67,Ector County Isd,32179,D
+'069902,88,Nueces Canyon Cisd,274,B
+'070903,76,Ennis Isd,5797,C
+'070905,67,Ferris Isd,2707,D
+'070907,78,Italy Isd,628,B
+'070908,89,Midlothian Isd,8846,B
+'070910,89,Palmer Isd,1215,B
+'070911,86,Red Oak Isd,5788,B
+'070912,80,Waxahachie Isd,8502,B
+'070915,82,Maypearl Isd,1187,B
+'071901,77,Clint Isd,11473,B
+'071902,77,El Paso Isd,58178,B
+'071903,77,Fabens Isd,2286,B
+'071904,77,San Elizario Isd,3796,B
+'071905,78,Ysleta Isd,41185,B
+'071906,73,Anthony Isd,835,B
+'071907,85,Canutillo Isd,6200,A
+'071908,79,Tornillo Isd,1111,B
+'071909,82,Socorro Isd,46398,B
+'072902,89,Dublin Isd,1190,A
+'072903,89,Stephenville Isd,3659,B
+'073903,58,Marlin Isd,835,F
+'073905,73,Rosebud-Lott Isd,636,C
+'074903,71,Bonham Isd,1868,C
+'074905,85,Ector Isd,228,B
+'074907,80,Honey Grove Isd,620,B
+'074909,75,Leonard Isd,920,D
+'074911,81,Savoy Isd,317,C
+'074912,84,Trenton Isd,568,B
+'074917,73,Sam Rayburn Isd,543,C
+'075901,85,Flatonia Isd,564,B
+'075903,76,Schulenburg Isd,753,C
+'075908,84,Round Top-Carmine Isd,266,B
+'076903,90,Roby Cisd,302,A
+'076904,87,Rotan Isd,258,B
+'077901,85,Floydada Isd,759,B
+'077902,78,Lockney Isd,459,B
+'079906,89,Needville Isd,3222,A
+'080901,85,Mount Vernon Isd,1622,B
+'081902,83,Fairfield Isd,1816,B
+'081904,79,Teague Isd,1230,C
+'081905,81,Wortham Isd,510,C
+'082902,64,Dilley Isd,979,C
+'082903,61,Pearsall Isd,2278,D
+'083903,78,Seminole Isd,2892,C
+'084910,91,Clear Creek Isd,42008,A
+'084911,94,Friendswood Isd,6047,A
+'085902,68,Post Isd,869,C
+'086901,86,Fredericksburg Isd,3184,B
+'086902,82,Harper Isd,591,B
+'087901,93,Glasscock County Isd,312,A
+'088902,84,Goliad Isd,1313,B
+'089901,63,Gonzales Isd,2840,F
+'089903,75,Nixon-Smiley Cisd,1078,B
+'090904,78,Pampa Isd,3570,C
+'091901,91,Bells Isd,821,A
+'091902,75,Collinsville Isd,546,C
+'091903,81,Denison Isd,4647,B
+'091905,88,Howe Isd,1163,B
+'091906,80,Sherman Isd,7452,C
+'091908,93,Van Alstyne Isd,1598,A
+'091909,83,Whitesboro Isd,1579,B
+'091910,89,Whitewright Isd,852,B
+'091913,85,Pottsboro Isd,1436,B
+'091914,82,S And S Cisd,917,B
+'091917,85,Gunter Isd,924,B
+'091918,70,Tom Bean Isd,666,F
+'092901,73,Gladewater Isd,1780,C
+'092902,74,Kilgore Isd,4070,C
+'092903,79,Longview Isd,8547,B
+'092904,78,Pine Tree Isd,4672,C
+'092906,80,Sabine Isd,1467,C
+'092907,90,Spring Hill Isd,1957,A
+'092908,89,White Oak Isd,1512,B
+'093901,79,Anderson-Shiro Cisd,860,B
+'093903,88,Iola Isd,501,A
+'093904,65,Navasota Isd,3047,D
+'093905,72,Richards Isd,163,C
+'094901,74,Seguin Isd,7446,C
+'094902,86,Schertz-Cibolo-U City Isd,15615,B
+'094903,85,Navarro Isd,1908,B
+'094904,83,Marion Isd,1467,B
+'095901,87,Abernathy Isd,766,B
+'095903,81,Hale Center Isd,607,B
+'095905,80,Plainview Isd,5511,B
+'096904,83,Memphis Isd,503,B
+'097902,82,Hamilton Isd,847,B
+'097903,87,Hico Isd,591,B
+'098901,92,Gruver Isd,428,A
+'098904,90,Spearman Isd,877,A
+'099902,77,Chillicothe Isd,219,B
+'099903,85,Quanah Isd,531,B
+'101906,81,Crosby Isd,6133,B
+'101914,91,Katy Isd,77331,A
+'101915,84,Klein Isd,52896,B
+'101916,81,La Porte Isd,7555,B
+'101921,92,Tomball Isd,15884,A
+'102902,65,Marshall Isd,5432,D
+'102903,77,Waskom Isd,918,C
+'102904,90,Hallsville Isd,5070,A
+'102905,82,Harleton Isd,734,B
+'102906,80,Elysian Fields Isd,884,C
+'104901,87,Haskell Cisd,552,B
+'105902,72,San Marcos Cisd,8167,C
+'105904,93,Dripping Springs Isd,6430,A
+'105905,91,Wimberley Isd,2437,A
+'105906,75,Hays Cisd,19788,C
+'106901,92,Canadian Isd,930,A
+'107901,84,Athens Isd,3111,B
+'107902,87,Brownsboro Isd,2712,B
+'107904,77,Cross Roads Isd,545,B
+'107905,83,Eustace Isd,1547,B
+'107906,90,Malakoff Isd,1389,A
+'107910,82,Lapoynor Isd,453,B
+'108902,70,Donna Isd,14792,C
+'108903,74,Edcouch-Elsa Isd,5181,C
+'108904,83,Edinburg Cisd,34098,A
+'108905,87,Hidalgo Isd,3212,A
+'108906,86,Mcallen Isd,23640,A
+'108907,83,Mercedes Isd,5511,B
+'108908,82,Mission Cisd,15891,B
+'108909,85,Pharr-San Juan-Alamo Isd,32667,B
+'108910,76,Progreso Isd,1901,B
+'108911,92,Sharyland Isd,10170,A
+'108912,77,La Joya Isd,28749,B
+'108913,78,Weslaco Isd,17122,B
+'108914,80,La Villa Isd,579,B
+'108915,77,Monte Alto Isd,1024,B
+'108916,91,Valley View Isd,4479,A
+'109904,75,Hillsboro Isd,2019,C
+'109905,79,Hubbard Isd,397,C
+'109907,75,Itasca Isd,692,C
+'109911,79,Whitney Isd,1513,C
+'110902,72,Levelland Isd,2986,C
+'110906,77,Smyer Isd,431,C
+'110907,93,Sundown Isd,604,A
+'111901,84,Granbury Isd,7115,B
+'111902,86,Lipan Isd,390,B
+'111903,82,Tolar Isd,786,B
+'112901,84,Sulphur Springs Isd,4329,B
+'112905,80,Cumby Isd,392,B
+'112906,78,North Hopkins Isd,518,C
+'113901,68,Crockett Isd,1331,C
+'113902,72,Grapeland Isd,508,D
+'113903,89,Lovelady Isd,547,B
+'113905,79,Latexo Isd,485,C
+'113906,64,Kennard Isd,278,D
+'114901,65,Big Spring Isd,3946,D
+'114902,74,Coahoma Isd,1001,C
+'114904,88,Forsan Isd,782,B
+'115901,85,Ft Hancock Isd,409,B
+'116901,92,Caddo Mills Isd,1735,A
+'116902,80,Celeste Isd,488,B
+'116903,77,Commerce Isd,1510,C
+'116905,79,Greenville Isd,5469,B
+'116906,82,Lone Oak Isd,1043,B
+'116908,70,Quinlan Isd,2628,D
+'116909,83,Wolfe City Isd,674,B
+'116910,71,Campbell Isd,327,C
+'116915,90,Bland Isd,683,A
+'116916,81,Boles Isd,543,B
+'117901,85,Borger Isd,2730,B
+'117903,84,Sanford-Fritch Isd,737,B
+'117904,83,Plemons-Stinnett-Phillips Cisd,686,B
+'118902,91,Irion County Isd,277,A
+'119902,77,Jacksboro Isd,1041,C
+'119903,78,Perrin-Whitt Cisd,340,C
+'120901,79,Edna Isd,1572,C
+'120902,73,Ganado Isd,766,C
+'120905,85,Industrial Isd,1172,B
+'121902,86,Brookeland Isd,406,B
+'121904,75,Jasper Isd,2483,B
+'124901,75,Jim Hogg County Isd,1147,B
+'125901,67,Alice Isd,5068,C
+'125902,66,Ben Bolt-Palito Blanco Isd,554,D
+'125903,81,Orange Grove Isd,1875,B
+'125905,78,Premont Isd,582,B
+'126901,70,Alvarado Isd,3720,C
+'126902,82,Burleson Isd,12167,B
+'126903,72,Cleburne Isd,6696,C
+'126904,91,Grandview Isd,1214,A
+'126905,85,Joshua Isd,5511,B
+'126906,79,Keene Isd,1048,B
+'126907,78,Rio Vista Isd,731,C
+'126908,77,Venus Isd,2136,C
+'126911,78,Godley Isd,2001,C
+'127901,78,Anson Isd,771,C
+'127903,78,Hamlin Isd,397,C
+'127904,78,Hawley Isd,737,C
+'127905,84,Lueders-Avoca Isd,106,B
+'127906,87,Stamford Isd,670,B
+'128901,78,Karnes City Isd,1129,C
+'128902,72,Kenedy Isd,824,B
+'128904,95,Falls City Isd,353,A
+'129901,79,Crandall Isd,4046,C
+'129902,86,Forney Isd,10179,B
+'129903,75,Kaufman Isd,3953,B
+'129904,81,Kemp Isd,1613,B
+'129905,85,Mabank Isd,3509,B
+'129906,72,Terrell Isd,4612,C
+'129910,81,Scurry-Rosser Isd,1028,B
+'130901,93,Boerne Isd,8651,A
+'130902,85,Comfort Isd,1100,B
+'133901,71,Center Point Isd,576,C
+'133903,84,Kerrville Isd,5019,B
+'133904,78,Ingram Isd,1107,C
+'134901,81,Junction Isd,614,B
+'136901,87,Brackett Isd,582,A
+'137901,60,Kingsville Isd,3388,F
+'137902,89,Ricardo Isd,688,A
+'137903,82,Riviera Isd,421,B
+'137904,94,Santa Gertrudis Isd,753,A
+'138902,86,Knox City-O'Brien Cisd,278,B
+'138903,80,Munday Cisd,368,C
+'139905,87,Chisum Isd,953,B
+'139909,80,Paris Isd,3815,B
+'139911,76,North Lamar Isd,2550,C
+'139912,87,Prairiland Isd,1147,B
+'140904,78,Littlefield Isd,1337,C
+'140905,86,Olton Isd,614,B
+'140907,74,Springlake-Earth Isd,366,C
+'140908,82,Sudan Isd,469,B
+'141901,81,Lampasas Isd,3334,C
+'142901,70,Cotulla Isd,1378,C
+'143901,81,Hallettsville Isd,1119,B
+'143902,83,Moulton Isd,280,B
+'143903,92,Shiner Isd,649,A
+'144901,80,Giddings Isd,1892,B
+'144902,87,Lexington Isd,1019,B
+'145901,81,Buffalo Isd,945,B
+'145902,79,Centerville Isd,683,B
+'145906,87,Normangee Isd,609,B
+'145907,76,Oakwood Isd,200,B
+'145911,81,Leon Isd,759,B
+'146903,94,Devers Isd,175,A
+'146904,74,Hardin Isd,1406,C
+'147901,69,Coolidge Isd,309,C
+'147902,75,Groesbeck Isd,1875,C
+'147903,73,Mexia Isd,1796,C
+'148901,89,Booker Isd,389,A
+'149901,84,George West Isd,1092,B
+'149902,72,Three Rivers Isd,677,D
+'150901,81,Llano Isd,1788,C
+'152901,73,Lubbock Isd,27813,C
+'152902,80,New Deal Isd,752,C
+'152903,81,Slaton Isd,1270,B
+'152906,84,Lubbock-Cooper Isd,6313,B
+'152907,89,Frenship Isd,9677,B
+'152908,83,Roosevelt Isd,1088,B
+'152909,91,Shallowater Isd,1645,A
+'152910,85,Idalou Isd,1001,B
+'153904,82,Tahoka Isd,620,B
+'154901,81,Madisonville Cisd,2357,C
+'155901,75,Jefferson Isd,1272,C
+'156902,80,Stanton Isd,1009,C
+'157901,94,Mason Isd,725,A
+'158901,69,Bay City Isd,3562,C
+'158902,80,Tidehaven Isd,935,C
+'158906,79,Van Vleck Isd,1055,C
+'159901,78,Eagle Pass Isd,14520,B
+'160901,85,Brady Isd,1178,B
+'161903,92,Midway Isd,8068,A
+'161920,91,China Spring Isd,2748,A
+'161907,91,Lorena Isd,1756,A
+'161918,84,Axtell Isd,803,B
+'161923,86,Bosqueville Isd,710,B
+'161901,85,Crawford Isd,545,B
+'161916,86,West Isd,1324,B
+'161922,83,Robinson Isd,2349,B
+'161912,84,Riesel Isd,645,B
+'161909,80,Mcgregor Isd,1458,C
+'161910,79,Moody Isd,694,C
+'161914,66,Waco Isd,14775,C
+'161919,79,Bruceville-Eddy Isd,689,C
+'161921,66,Connally Isd,2337,C
+'161906,65,La Vega Isd,3093,D
+'161908,74,Mart Isd,519,D
+'163901,82,Devine Isd,2007,B
+'163903,67,Natalia Isd,1102,F
+'163904,76,Hondo Isd,1997,C
+'163908,89,Medina Valley Isd,5060,A
+'164901,75,Menard Isd,313,C
+'165901,72,Midland Isd,25663,C
+'165902,81,Greenwood Isd,2679,C
+'166901,74,Cameron Isd,1850,C
+'166903,80,Milano Isd,453,B
+'166904,76,Rockdale Isd,1528,C
+'166905,80,Thorndale Isd,566,B
+'167901,92,Goldthwaite Isd,572,A
+'167902,77,Mullin Isd,333,B
+'168901,87,Colorado Isd,977,B
+'169901,81,Bowie Isd,1692,C
+'169902,79,Nocona Isd,780,B
+'169909,88,Prairie Valley Isd,151,B
+'169911,78,Saint Jo Isd,282,B
+'170902,89,Conroe Isd,61323,B
+'170903,90,Montgomery Isd,8730,B
+'170904,75,Willis Isd,7254,C
+'170906,87,Magnolia Isd,12955,B
+'170907,83,Splendora Isd,4012,B
+'170908,77,New Caney Isd,15030,C
+'171901,77,Dumas Isd,4307,B
+'171902,85,Sunray Isd,552,B
+'172902,75,Daingerfield-Lone Star Isd,1021,D
+'172905,70,Pewitt Cisd,888,D
+'174901,75,Chireno Isd,394,C
+'174902,86,Cushing Isd,557,B
+'174903,89,Garrison Isd,729,B
+'174904,68,Nacogdoches Isd,6305,C
+'174906,90,Woden Isd,747,A
+'174908,84,Central Heights Isd,1133,B
+'175902,77,Blooming Grove Isd,944,C
+'175903,77,Corsicana Isd,5904,C
+'175904,78,Dawson Isd,486,C
+'175905,83,Frost Isd,412,B
+'175910,87,Mildred Isd,739,B
+'175911,82,Rice Isd,893,B
+'176902,67,Newton Isd,1021,D
+'177901,89,Roscoe Collegiate Isd,619,B
+'177902,75,Sweetwater Isd,2152,C
+'178901,75,Agua Dulce Isd,336,C
+'178902,86,Bishop Cisd,1470,A
+'178903,88,Calallen Isd,4051,B
+'178904,71,Corpus Christi Isd,37910,C
+'178906,92,London Isd,1043,A
+'178908,87,Port Aransas Isd,435,A
+'178909,66,Robstown Isd,2789,C
+'178912,80,Tuloso-Midway Isd,3878,C
+'178913,81,Banquete Isd,930,B
+'178914,90,Flour Bluff Isd,5660,A
+'178915,68,West Oso Isd,2102,C
+'179901,79,Perryton Isd,2221,C
+'180902,94,Vega Isd,369,A
+'182902,71,Graford Isd,352,D
+'182903,74,Mineral Wells Isd,3281,C
+'182904,88,Santo Isd,455,B
+'183901,91,Beckville Isd,663,A
+'183902,79,Carthage Isd,2681,B
+'184901,69,Poolville Isd,518,C
+'184902,79,Springtown Isd,3576,C
+'184903,80,Weatherford Isd,8083,C
+'184904,81,Millsap Isd,993,B
+'184907,93,Aledo Isd,5697,A
+'184908,85,Peaster Isd,1167,B
+'184909,93,Brock Isd,1370,A
+'185901,73,Bovina Isd,490,B
+'185902,81,Farwell Isd,539,B
+'185903,77,Friona Isd,1110,B
+'186902,75,Fort Stockton Isd,2471,C
+'186903,88,Iraan-Sheffield Isd,504,B
+'187903,73,Goodrich Isd,241,C
+'187904,75,Corrigan-Camden Isd,890,B
+'187906,77,Leggett Isd,179,B
+'187907,77,Livingston Isd,4056,C
+'187910,81,Onalaska Isd,1110,B
+'188901,85,Amarillo Isd,32771,B
+'188902,79,River Road Isd,1277,C
+'188903,82,Highland Park Isd,893,B
+'188904,92,Bushland Isd,1451,A
+'189902,83,Presidio Isd,1242,B
+'190903,77,Rains Isd,1697,C
+'191901,90,Canyon Isd,9962,B
+'192901,76,Reagan County Isd,854,C
+'194902,83,Avery Isd,358,B
+'194903,84,Rivercrest Isd,693,B
+'194904,71,Clarksville Isd,541,C
+'194905,79,Detroit Isd,522,B
+'195901,68,Pecos-Barstow-Toyah Isd,2630,D
+'198901,86,Bremond Isd,507,B
+'198903,86,Franklin Isd,1253,A
+'198905,55,Hearne Isd,862,F
+'198906,87,Mumford Isd,616,A
+'199901,92,Rockwall Isd,16184,A
+'199902,80,Royse City Isd,5733,B
+'200901,78,Ballinger Isd,901,C
+'200902,91,Miles Isd,445,A
+'200904,79,Winters Isd,543,C
+'200906,82,Olfen Isd,102,B
+'201902,82,Henderson Isd,3433,B
+'201904,81,Leveretts Chapel Isd,259,A
+'201907,75,Mount Enterprise Isd,412,C
+'201908,74,Overton Isd,524,D
+'201910,81,Tatum Isd,1613,B
+'201914,75,West Rusk County Consolidated Isd,1079,C
+'202903,80,Hemphill Isd,897,B
+'202905,68,West Sabine Isd,665,D
+'203901,74,San Augustine Isd,762,C
+'203902,77,Broaddus Isd,409,C
+'204904,61,Shepherd Isd,2015,D
+'205904,82,Mathis Isd,1625,B
+'205905,72,Odem-Edroy Isd,988,C
+'205906,78,Sinton Isd,2199,C
+'206901,83,San Saba Isd,734,B
+'207901,83,Schleicher Isd,554,B
+'208902,74,Snyder Isd,2695,C
+'209901,83,Albany Isd,507,B
+'210901,68,Center Isd,2661,C
+'210902,78,Joaquin Isd,715,C
+'211902,80,Stratford Isd,590,B
+'212901,78,Arp Isd,899,C
+'212902,86,Bullard Isd,2556,B
+'212903,93,Lindale Isd,4073,A
+'212904,79,Troup Isd,1081,C
+'212905,78,Tyler Isd,17979,C
+'212906,89,Whitehouse Isd,4725,B
+'212909,77,Chapel Hill Isd,3553,B
+'212910,63,Winona Isd,1073,C
+'213901,90,Glen Rose Isd,1803,A
+'214901,76,Rio Grande City Cisd,10433,C
+'214902,82,San Isidro Isd,238,B
+'214903,84,Roma Isd,6355,A
+'215901,80,Breckenridge Isd,1499,C
+'216901,79,Sterling City Isd,305,B
+'217901,81,Aspermont Isd,227,C
+'218901,85,Sonora Isd,815,B
+'219901,93,Happy Isd,262,A
+'219903,65,Tulia Isd,1096,D
+'219905,81,Kress Isd,251,B
+'220901,73,Arlington Isd,61020,C
+'220902,86,Birdville Isd,23607,B
+'220904,68,Everman Isd,5822,C
+'220905,70,Fort Worth Isd,86039,C
+'220906,93,Grapevine-Colleyville Isd,13924,A
+'220907,90,Keller Isd,34856,A
+'220908,89,Mansfield Isd,34983,A
+'220910,69,Lake Worth Isd,3347,D
+'220912,71,Crowley Isd,15203,C
+'220914,83,Kennedale Isd,3118,B
+'220915,83,Azle Isd,6481,B
+'220916,91,Hurst-Euless-Bedford Isd,23364,A
+'220917,71,Castleberry Isd,3904,C
+'220918,83,Eagle Mt-Saginaw Isd,19251,B
+'220919,96,Carroll Isd,8341,A
+'220920,79,White Settlement Isd,6842,C
+'221901,84,Abilene Isd,16760,B
+'221904,72,Merkel Isd,1168,D
+'221911,91,Jim Ned Cisd,1216,A
+'221912,93,Wylie Isd,4405,A
+'223901,68,Brownfield Isd,1752,D
+'225902,83,Mount Pleasant Isd,5289,B
+'225906,89,Chapel Hill Isd,1035,A
+'226901,83,Christoval Isd,523,B
+'226903,78,San Angelo Isd,14567,C
+'226905,85,Water Valley Isd,363,B
+'226906,95,Wall Isd,1132,A
+'226907,71,Grape Creek Isd,1134,D
+'226908,77,Veribest Isd,269,B
+'227901,87,Austin Isd,81346,B
+'227904,87,Pflugerville Isd,25269,B
+'227907,70,Manor Isd,9061,D
+'227909,95,Eanes Isd,8055,A
+'227910,68,Del Valle Isd,11169,D
+'227912,86,Lago Vista Isd,1472,B
+'227913,93,Lake Travis Isd,10382,A
+'228901,82,Groveton Isd,768,B
+'228903,60,Trinity Isd,1236,C
+'228905,77,Apple Springs Isd,197,C
+'229901,83,Colmesneil Isd,475,B
+'229903,77,Woodville Isd,1339,C
+'229904,77,Warren Isd,1301,C
+'229906,80,Chester Isd,206,C
+'230901,75,Big Sandy Isd,715,C
+'230902,84,Gilmer Isd,2432,B
+'230903,75,Ore City Isd,939,B
+'230904,75,Union Hill Isd,376,C
+'230905,83,Harmony Isd,1074,B
+'230906,72,New Diana Isd,1099,C
+'230908,89,Union Grove Isd,740,A
+'231901,71,Mccamey Isd,555,B
+'231902,87,Rankin Isd,309,B
+'232902,67,Sabinal Isd,467,D
+'232903,59,Uvalde Cisd,4457,F
+'233901,79,San Felipe-Del Rio Cisd,10560,B
+'234902,90,Canton Isd,2177,B
+'234903,83,Edgewood Isd,985,B
+'234904,84,Grand Saline Isd,1103,B
+'234905,91,Martins Mill Isd,531,A
+'234906,87,Van Isd,2419,B
+'234907,77,Wills Point Isd,2414,C
+'234909,80,Fruitvale Isd,450,C
+'236901,79,New Waverly Isd,1066,B
+'236902,65,Huntsville Isd,8257,F
+'237902,66,Hempstead Isd,1593,C
+'237904,88,Waller Isd,7122,A
+'238902,70,Monahans-Wickett-Pyote Isd,2317,D
+'239901,81,Brenham Isd,5013,C
+'239903,83,Burton Isd,455,B
+'240901,77,Laredo Isd,24022,B
+'240903,87,United Isd,43212,A
+'240904,79,Webb Cisd,270,C
+'241902,93,East Bernard Isd,949,A
+'241906,77,Louise Isd,518,C
+'242902,75,Shamrock Isd,424,C
+'243901,77,Burkburnett Isd,3241,C
+'243902,86,Electra Isd,414,B
+'243903,88,Iowa Park Cisd,1833,B
+'243905,79,Wichita Falls Isd,14072,C
+'243906,81,City View Isd,1057,C
+'244903,72,Vernon Isd,1985,D
+'245901,80,Lasara Isd,410,B
+'245902,81,Lyford Cisd,1551,B
+'245903,73,Raymondville Isd,2083,B
+'245904,84,San Perlita Isd,262,B
+'246902,74,Florence Isd,1046,C
+'246904,83,Georgetown Isd,11508,B
+'246906,80,Hutto Isd,7218,C
+'246907,79,Jarrell Isd,1698,C
+'246908,92,Liberty Hill Isd,4013,A
+'246909,91,Round Rock Isd,48919,A
+'246911,77,Taylor Isd,3190,C
+'246912,85,Thrall Isd,696,B
+'246913,93,Leander Isd,38936,B
+'247901,83,Floresville Isd,4012,B
+'247903,86,La Vernia Isd,3361,B
+'247904,93,Poth Isd,830,A
+'247906,85,Stockdale Isd,830,B
+'248901,66,Kermit Isd,1416,D
+'248902,74,Wink-Loving Isd,433,F
+'249901,89,Alvord Isd,708,A
+'249902,77,Boyd Isd,1326,C
+'249903,76,Bridgeport Isd,2061,C
+'249904,75,Chico Isd,605,C
+'249905,87,Decatur Isd,3337,B
+'249906,84,Paradise Isd,1187,B
+'250902,82,Hawkins Isd,686,B
+'250903,77,Mineola Isd,1611,B
+'250904,83,Quitman Isd,1117,B
+'250905,73,Yantis Isd,394,D
+'250906,85,Alba-Golden Isd,883,B
+'250907,81,Winnsboro Isd,1519,B
+'251901,86,Denver City Isd,1685,B
+'251902,77,Plains Isd,447,C
+'252901,79,Graham Isd,2401,C
+'252903,89,Olney Isd,676,A
+'253901,75,Zapata County Isd,3505,B
+'254901,67,Crystal City Isd,1951,C
+'254902,76,La Pryor Isd,468,C
